@@ -14,11 +14,11 @@ namespace Jumpson
     {
         public override void OnUpdate()
         {
-            if (Input.GetKeyDown(KeyCode.J))
+            if (Input.GetKeyDown(KeyCode.Space))
             {
                 Type jump = typeof(PlayerMovement);
                 FieldInfo jumpForce = jump.GetField("jumpForce", BindingFlags.NonPublic | BindingFlags.Instance);
-                jumpForce.SetValue(7152, 1100);
+                jumpForce.SetValue(PlayerMovement.Instance, 1100);
             }
         }
     }
