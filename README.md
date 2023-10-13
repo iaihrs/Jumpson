@@ -1,4 +1,4 @@
-# HighPoint
+# Jumpson
 This mod makes Karlson jump nearly 3x as far, including from walls.
 
 How to Install:
