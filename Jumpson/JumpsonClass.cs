@@ -18,7 +18,7 @@ namespace Jumpson
             {
                 Type jump = typeof(PlayerMovement);
                 FieldInfo jumpForce = jump.GetField("jumpForce", BindingFlags.NonPublic | BindingFlags.Instance);
-                jumpForce.SetValue(PlayerMovement.Instance, 1100);
+                jumpForce.SetValue(PlayerMovement.Instance, 1500);
             }
         }
     }
