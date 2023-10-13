@@ -3,7 +3,7 @@ This mod makes Karlson jump nearly 3x as far, including from walls.
 
 How to Install:
 
-#MelonLoader
+MelonLoader
 1. Have a clean copy of [Karlson](https://danidev.itch.io/karlson)
 2. Install the [MelonLoader Installer](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe) 
 3. Open up the installer and select the Karlson Copy's .exe file
@@ -13,7 +13,7 @@ How to Install:
 7. Put Jumpson.dll in the Mods folder
 8. Enjoy
 
-#Loadson
+Loadson
 1. Install Loadson
 2. Double click Jumpson.klmi
 3. Open Loadson.exe
