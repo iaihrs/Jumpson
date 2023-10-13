@@ -14,8 +14,8 @@ MelonLoader
 8. Enjoy
 
 Loadson
-1. Install Loadson
-2. Double click Jumpson.klmi
+1. Install [Loadson](https://github.com/karlsonmodding/Loadson)
+2. Double click [Jumpson.klmi](https://github.com/iaihrs/Jumpson/releases/download/1.0/Jumpson.ML.dll)
 3. Open Loadson.exe
 4. Make sure Jumpson is installed and enabled
 5. Enjoy
